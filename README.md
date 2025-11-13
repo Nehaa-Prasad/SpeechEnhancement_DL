@@ -10,3 +10,9 @@ This project removes background noise from speech signals using a Denoising Auto
 ## 🧩 Requirements
 ```bash
 pip install tensorflow librosa soundfile matplotlib numpy
+```
+
+## 🚀 Run the script
+```bash
+python speech_denoising_autoencoder.py
+```
